@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Sailbook is an unofficial Facebook client for Sailfish OS.</source>
-        <translation>Sailbook är en inofficel Facebook klient för Sailfish OS.</translation>
+        <translation>Sailbook är en inofficel Facebookklient för Sailfish OS.</translation>
     </message>
     <message>
         <source>Privacy &amp; licensing</source>
@@ -37,11 +37,11 @@
     </message>
     <message>
         <source>Sailbook icons made by Alain Molteni.</source>
-        <translation>Sailbook ikoner gjorda av Alain Molteni</translation>
+        <translation>Sailbookikoner gjorda av Alain Molteni</translation>
     </message>
     <message>
         <source>is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>Licensierad under GNU (GPL)version 3 eller senare</translation>
+        <translation>Licensierad under GNU GPL version 3 eller senare</translation>
     </message>
     <message>
         <source>Translations</source>
@@ -72,7 +72,7 @@
     <name>CoverPage</name>
     <message>
         <source>message(s)</source>
-        <translation>Meddelande</translation>
+        <translation>Meddelande(n)</translation>
     </message>
     <message>
         <source>Unread</source>
@@ -90,7 +90,7 @@
     <name>FBWebview</name>
     <message>
         <source>Facebook logout</source>
-        <translation>Utloggad ifrån Facebook</translation>
+        <translation>Utloggad från Facebook</translation>
     </message>
     <message>
         <source>About</source>
@@ -110,7 +110,7 @@
     </message>
     <message>
         <source>Facebook refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera Facebook</translation>
     </message>
 </context>
 <context>
@@ -139,7 +139,7 @@
     <name>SettingsPage</name>
     <message>
         <source>Settings</source>
-        <translation>Inställningar </translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>Notifications</source>
-        <translation>Notifikationer </translation>
+        <translation>Notifikationer</translation>
     </message>
     <message>
         <source>Opening external link in</source>
@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Appearance</source>
-        <translation>Utseende </translation>
+        <translation>Utseende</translation>
     </message>
     <message>
         <source>External links</source>
@@ -167,15 +167,15 @@
     </message>
     <message>
         <source>Back button in</source>
-        <translation>Bakknappen i</translation>
+        <translation>Backknappen i</translation>
     </message>
     <message>
         <source>Show Facebook feed button</source>
-        <translation>Visa flödes knappen</translation>
+        <translation>Visa flödesknappen</translation>
     </message>
     <message>
         <source>Show Facebook friends button</source>
-        <translation>Visa knappen för Facebook vänner</translation>
+        <translation>Visa knappen för Facebookvänner</translation>
     </message>
     <message>
         <source>Show Facebook messages button</source>
@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>Show Facebook notifications button</source>
-        <translation>Visa notifikations knappen</translation>
+        <translation>Visa notifikationsknappen</translation>
     </message>
     <message>
         <source>Show Facebook search button</source>
@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>Show Facebook events button</source>
-        <translation>Visa event knappen</translation>
+        <translation>Visa eventknappen</translation>
     </message>
     <message>
         <source>Show Facebook groups button</source>
@@ -199,27 +199,27 @@
     </message>
     <message>
         <source>Show Facebook settings button</source>
-        <translation>Visa Facebook inställnings knappen</translation>
+        <translation>Visa Facebookinställningsknappen</translation>
     </message>
     <message>
         <source>When disabled, the notifications for friend requests aren&apos;t shown as well.</source>
-        <translation> När avstängt, Så kommer notifikationen för vänförfrågan inte att visas </translation>
+        <translation> När avstängt så kommer notifikationen för vänförfrågan inte att visas.</translation>
     </message>
     <message>
         <source>When disabled, the notifications for new messages aren&apos;t shown as well.</source>
-        <translation>När avstängt, Så kommer notifikationen för nya meddelande inte att visas</translation>
+        <translation>När avstängt så kommer notifikationen för nya meddelanden inte att visas.</translation>
     </message>
     <message>
         <source>When disabled, the notifications for events, ... aren&apos;t shown as well.</source>
-        <translation>När avstängt, Så kommer notifikationen för nya event inte att visas </translation>
+        <translation>När avstängt så kommer notifikationen för nya event inte att visas.</translation>
     </message>
     <message>
         <source>Show Facebook liked pages button</source>
-        <translation>Visa gilla knappen</translation>
+        <translation>Visa gillaknappen</translation>
     </message>
     <message>
         <source>Show Facebook logout pulldown menu</source>
-        <translation>Visa logga ut menyn</translation>
+        <translation>Visa logga ut-menyn</translation>
     </message>
     <message>
         <source>Ambience</source>
@@ -235,7 +235,7 @@
     </message>
     <message>
         <source>Pulldown menu</source>
-        <translation>Rullgardins meny</translation>
+        <translation>Rullgardinsmeny</translation>
     </message>
     <message>
         <source>Menu bar</source>
@@ -243,7 +243,7 @@
     </message>
     <message>
         <source>Feed priority</source>
-        <translation>Flödes prioritet</translation>
+        <translation>Flödesprioritet</translation>
     </message>
     <message>
         <source>Most recent</source>
@@ -251,7 +251,7 @@
     </message>
     <message>
         <source>Top stories</source>
-        <translation>Top händelser</translation>
+        <translation>Topphändelser</translation>
     </message>
     <message>
         <source>Notify friend requests</source>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>%1 will send you notifications when you have a new Facebook notification.</source>
-        <translation>%1 kommer att meddela dig när du har en ny Facebook notis</translation>
+        <translation>%1 kommer att meddela dig när du har en ny Facebooknotis</translation>
     </message>
     <message>
         <source>Show Facebook refresh pulldown menu</source>
@@ -286,7 +286,7 @@
     <name>TranslationsPage</name>
     <message>
         <source>Translation Platform</source>
-        <translation>Översättnings platform</translation>
+        <translation>Översättningsplatform</translation>
     </message>
     <message>
         <source>Translators</source>
@@ -308,11 +308,11 @@
     <name>messages</name>
     <message>
         <source>New friend request</source>
-        <translation>Ny vän förfrågan</translation>
+        <translation>Ny vänförfrågan</translation>
     </message>
     <message>
         <source>New friend requests</source>
-        <translation>Nya vän förfrågningar</translation>
+        <translation>Nya vänförfrågningar</translation>
     </message>
     <message>
         <source>New message</source>
@@ -320,7 +320,7 @@
     </message>
     <message>
         <source>New messages</source>
-        <translation>Nya meddelande</translation>
+        <translation>Nya meddelanden</translation>
     </message>
     <message>
         <source>New notification</source>
@@ -340,11 +340,11 @@
     </message>
     <message>
         <source>You have %1 new message</source>
-        <translation>Du har 1% nytt meddelande</translation>
+        <translation>Du har %1 nytt meddelande</translation>
     </message>
     <message>
         <source>You have %1 messages</source>
-        <translation>Du har 1% nya meddelande </translation>
+        <translation>Du har %1 nya meddelanden</translation>
     </message>
     <message>
         <source>You have %1 new notification</source>
